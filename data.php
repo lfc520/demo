@@ -1,4 +1,5 @@
 <?php
+	123123132132
 	//忽略notice警告
 	error_reporting(E_ALL^E_NOTICE);
 	//创建PDO对象
